@@ -18,7 +18,6 @@ var daughter = {
 };
 
 daughter.__proto__ = mom;
-console.log(daughter.lastName);
 
 mom.showInfo();
 daughter.showInfo();
